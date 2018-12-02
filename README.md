@@ -29,7 +29,7 @@ create database java_security
 
 + change `spring.datasource.username` and `spring.datasource.password` as per your mysql installation
 
-**4. Open Eclipse IDE and import the project as existing maven project **
+**4. Open Eclipse IDE and import the project as existing maven project**
 
 ## The app will start running at <http://localhost:8084>.
 
