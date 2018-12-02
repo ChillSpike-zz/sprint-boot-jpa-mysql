@@ -10,6 +10,8 @@
 
 3. Mysql - 5.x.x
 
+4. POSTMAN
+
 ## Steps to Setup
 
 **1. Clone the application**
